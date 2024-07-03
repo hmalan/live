@@ -95,8 +95,6 @@ https://tv.vtibet.cn/live/vuXz3cg3TmRUYg.m3u8?secret=b68b82338b5e9fa5f531ccc5696
 https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=49ce2b571719651586
 #EXTINF:-1 group-title="卫视台" tvg-id="三沙卫视" tvg-logo="https://live.fanmingming.com/tv/三沙卫视.png",三沙卫视
 https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=9bb8a2cb1719652218
-#EXTINF:-1 group-title="数字电视" tvg-id="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png",中国天气
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="教育" tvg-id="CETV1中国教育电视台一套" tvg-logo="https://live.fanmingming.com/tv/CETV1.png",CETV1中国教育电视台一套
 http://hwylivehd.centv.cn/cetv1/ypd.m3u8
 #EXTINF:-1 group-title="教育" tvg-id="CETV2中国教育电视台二套" tvg-logo="https://live.fanmingming.com/tv/CETV2.png",CETV2中国教育电视台二套
