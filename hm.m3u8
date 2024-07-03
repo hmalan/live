@@ -11,6 +11,8 @@ https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="AmericasVoice.us" tvg-logo="https://i.imgur.com/jtFBBGs.jpg" group-title="凤凰卫视",America's Voice
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
+#EXTINF:-1 tvg-id="NBCNewsNOW.us" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="凤凰卫视",NBC News NOW
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel91/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
